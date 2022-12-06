@@ -1,12 +1,11 @@
 package test;
 
-
-import java.util.ArrayList;
-
-import org.junit.Assert;
-import org.junit.Test;
-
 import torneio.Participante;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 
 public class ParticipanteTest {
 
